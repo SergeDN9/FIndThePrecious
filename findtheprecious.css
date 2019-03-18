@@ -1,0 +1,14 @@
+.centrer {
+    display: flex;
+    justify-content:center;
+}
+
+.droite {
+    display: flex;
+    justify-content: right;
+}
+
+.nodot {
+    list-style: none;
+}
+
